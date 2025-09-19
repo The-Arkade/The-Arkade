@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1758251002,
+	"Version": 1758296129,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1165,6 +1165,7 @@
 				"38",
 				"39",
 				"44",
+				"261",
 				"50",
 				"54",
 				"57",
@@ -3766,7 +3767,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
