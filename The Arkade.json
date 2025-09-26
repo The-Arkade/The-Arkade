@@ -3983,7 +3983,7 @@
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
