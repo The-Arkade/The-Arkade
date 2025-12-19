@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1760903682,
+	"Version": 1764728739,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -203,6 +203,7 @@
 				19
 			],
 			"ItemWhitelist": [
+				5,
 				0
 			],
 			"AddonWhitelist": {
@@ -210,7 +211,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -377,7 +383,6 @@
 			"ItemWhitelist": [
 				5,
 				7,
-				14,
 				0
 			],
 			"AddonWhitelist": {
@@ -399,11 +404,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
@@ -512,7 +513,7 @@
 				5
 			],
 			"KillerOfferings": [
-				8
+				5
 			]
 		},
 		{
@@ -1329,7 +1330,7 @@
 				5
 			],
 			"KillerOfferings": [
-				8
+				5
 			]
 		},
 		{
@@ -1619,8 +1620,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				8
@@ -2304,8 +2304,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				7,
-				14
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2326,11 +2325,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
@@ -3765,14 +3760,20 @@
 				733
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3932,7 +3933,9 @@
 				776,
 				772
 			],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
@@ -3953,7 +3956,11 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
 			"KillerOfferings": [
 				8
 			]
