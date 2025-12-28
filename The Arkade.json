@@ -1,6 +1,6 @@
 {
 	"Name": "The Arkade",
-	"Version": 1764728739,
+	"Version": 1766954586,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -72,6 +72,7 @@
 				"130"
 			],
 			"KillerIndvPerkBans": [
+				"131",
 				"270",
 				"134",
 				"146",
@@ -139,6 +140,10 @@
 				[
 					"283",
 					"215"
+				],
+				[
+					"183",
+					"184"
 				]
 			]
 		}
@@ -257,6 +262,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
@@ -323,6 +329,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -513,7 +520,7 @@
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
@@ -1256,6 +1263,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"136",
 				"163"
 			],
 			"KillerComboPerkBans": [],
@@ -1267,11 +1275,9 @@
 				"38",
 				"39",
 				"279",
-				"44",
 				"54",
 				"57",
 				"61",
-				"65",
 				"69",
 				"70",
 				"76",
@@ -1279,7 +1285,6 @@
 				"92",
 				"102",
 				"109",
-				"112",
 				"121",
 				"127"
 			],
@@ -1330,15 +1335,15 @@
 				5
 			],
 			"KillerOfferings": [
-				5
+				8
 			]
 		},
 		{
 			"Name": "The Pig",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"34"
+				"22"
 			],
 			"BalanceTiers": [
 				0
@@ -1347,16 +1352,14 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"157"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
 				"246",
-				"27",
 				"34",
 				"36",
 				"37",
@@ -1364,26 +1367,19 @@
 				"39",
 				"279",
 				"44",
-				"48",
-				"53",
+				"261",
+				"54",
 				"57",
-				"58",
 				"61",
 				"65",
-				"70",
 				"76",
-				"85",
 				"89",
 				"96",
-				"97",
 				"92",
 				"102",
-				"107",
 				"109",
-				"111",
 				"112",
 				"121",
-				"126",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1392,7 +1388,10 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				217,
+				216
+			],
 			"ItemWhitelist": [
 				0,
 				5
@@ -1424,6 +1423,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -1561,6 +1561,7 @@
 			],
 			"SurvivorIndvPerkBans": [
 				"10",
+				"246",
 				"38",
 				"279",
 				"58",
@@ -1817,6 +1818,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
@@ -1883,6 +1885,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -1906,6 +1909,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"11",
 				"21",
 				"246",
@@ -2805,6 +2809,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
@@ -2876,7 +2881,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				3,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -2998,6 +3003,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"132",
 				"163"
 			],
 			"KillerComboPerkBans": [],
@@ -3085,6 +3091,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
 				"8",
 				"11",
 				"21",
@@ -3530,7 +3537,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"56"
+				"39"
 			],
 			"BalanceTiers": [
 				0
@@ -3545,7 +3552,6 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"11",
 				"21",
 				"34",
@@ -3554,6 +3560,7 @@
 				"39",
 				"279",
 				"44",
+				"261",
 				"57",
 				"61",
 				"76",
@@ -3634,7 +3641,6 @@
 				"11",
 				"21",
 				"246",
-				"27",
 				"34",
 				"36",
 				"37",
@@ -3642,7 +3648,6 @@
 				"39",
 				"279",
 				"44",
-				"261",
 				"50",
 				"54",
 				"57",
@@ -3658,7 +3663,6 @@
 				"109",
 				"112",
 				"121",
-				"123",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3734,13 +3738,13 @@
 			],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"246",
 				"34",
 				"36",
 				"38",
 				"58",
 				"63",
 				"67",
-				"76",
 				"96",
 				"109",
 				"121"
@@ -3934,14 +3938,20 @@
 				772
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
